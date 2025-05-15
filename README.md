@@ -1,3 +1,5 @@
+![Tela inicial](images/imagemInicial.png)
+
 # TechBuy - Sua loja de tecnologia
 
 Este é um site simples em HTML, CSS e JavaScript que apresenta produtos tecnológicos com um carrossel animado.
