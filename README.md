@@ -1,4 +1,4 @@
-![Tela inicial](images/imagemInicial.png)
+![Tela inicial](imagens/imagemInicial.png)
 
 # TechBuy - Sua loja de tecnologia
 
