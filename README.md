@@ -1,5 +1,3 @@
-![Tela inicial](C:\Users\jeane\OneDrive\Área de Trabalho)
-
 # TechBuy - Sua loja de tecnologia
 
 Este é um site simples em HTML, CSS e JavaScript que apresenta produtos tecnológicos com um carrossel animado.
